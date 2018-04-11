@@ -4,7 +4,12 @@ Notes for UVM presentation
 ## What is the HAM DIET?
 
 HAM = Harvard Art Museums  
+
+HAM is a teaching museum at a research university.  
+
 DIET = Digital Infrastructure and Emerging Technology  
+
+"DIET is here to do good things with interesting data. We are here to make sure the ones and zeros are flowing. We are here to make sure every datum has a happy life from beginning to end and does the most meaningful work for the institution. Through technology we make a great art collection accessible to the museums' staff, to everyone at Harvard, and to the world."  
 
 ## Guiding Principles  
 Organized data is infinitely malleable. Given the right situation, we can bend data to our will.  
@@ -18,7 +23,7 @@ Technology should be transparent to the user and when applied have a positive im
 Technology and data are not neutral. There is bias in it and everything we do. Be mindful of how this affects our work.  
 Data is an immensely valuable type of information but it's not the only type. Use it to make data informed decisions, not data driven decisions.  
 
-## Roles
+## Roles in DIET
 Director  
 Associate Director  
 Technology Support Specialist  
@@ -30,7 +35,7 @@ Technology Fellow
 
 First and foremost: Technology is in service of the story  
 
-### Exhibitions referenced  
+### Exhibitions  
 [Everywhen: The Eternal Present in Indigenous Art from Australia](https://www.harvardartmuseums.org/visit/exhibitions/4983/everywhen-the-eternal-present-in-indigenous-art-from-australia)  
 [The Philosophy Chamber: Art and Science in Harvard’s Teaching Cabinet, 1766–1820](https://www.harvardartmuseums.org/visit/exhibitions/4916/the-philosophy-chamber-art-and-science-in-harvards-teaching-cabinet-17661820)  
 [Inventur—Art in Germany, 1943–55](https://www.harvardartmuseums.org/visit/exhibitions/5388/inventurart-in-germany-194355)
